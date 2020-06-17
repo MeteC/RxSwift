@@ -437,6 +437,7 @@
 		C8DF92F01B0B3E67009BCF9A /* Info-macOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-macOS.plist"; sourceTree = "<group>"; };
 		C8DF92F21B0B3E71009BCF9A /* Info-iOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-iOS.plist"; sourceTree = "<group>"; };
 		C8F8C4891C277F460047640B /* Calculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		CAA64389248A820C0014474D /* MetesRxCookbook.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MetesRxCookbook.playground; path = ../MetesRxCookbook.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -630,6 +631,7 @@
 		C83366D41AD0293800C668A7 = {
 			isa = PBXGroup;
 			children = (
+				CAA64389248A820C0014474D /* MetesRxCookbook.playground */,
 				780D63E2226B320A00BEACB0 /* Rx.playground */,
 				C81B39F11BC1C28400EF5A9F /* Rx.xcodeproj */,
 				C8B290A51C959D2900E923D0 /* RxDataSources */,

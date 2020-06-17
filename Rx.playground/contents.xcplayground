@@ -12,7 +12,10 @@
         <page name='Connectable_Operators'/>
         <page name='Error_Handling_Operators'/>
         <page name='Debugging_Operators'/>
-        <page name='Enable_RxSwift.resourceCount'/>
-        <page name='Playground'/>
+        <page name='Enable_RxSwift.Resources.total'/>
+        <page name='TryYourself'/>
+        <page name='Metes_Playground'/>
+        <page name='Subject Tests'/>
+        <page name='Timeout API'/>
     </pages>
 </playground>

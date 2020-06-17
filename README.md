@@ -1,5 +1,11 @@
 **Forked by MeteC to keep my running "cookbook" playground entries version controlled and on the cloud.**
 
+Cookbook instructions:
+
+1. Launch RxSwift.xcworkspace (**not** xcodeproj)
+2. Build RxExample-macOS if necessary first
+3. Run playgrounds in RxExample / MetesRxCookbook.playground (or Rx.playground)
+
 ---
 
 
