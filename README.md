@@ -1,3 +1,9 @@
+**Forked by MeteC to keep my running "cookbook" playground entries version controlled and on the cloud.**
+
+---
+
+
+
 <img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/master/assets/Rx_Logo_M.png" alt="Miss Electric Eel 2016" width="36" height="36"> RxSwift: ReactiveX for Swift
 ======================================
 
